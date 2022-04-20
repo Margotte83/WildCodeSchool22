@@ -1,5 +1,5 @@
 # 🗒️Carnet de compétences
-## WILD Emmanuelle
+## WILDER Marjorie
 ## 👩🏽‍💻 Développer
 
 - [Langage `Javascript`](development/langage-javascript.md)
