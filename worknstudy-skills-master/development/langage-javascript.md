@@ -9,7 +9,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
-- les normes `ecmascript` ✔️
+- les normes `ecmascript` ❌ 
 - l'utilisation de l'`asynchrone` ✔️
 - les spécifités du mot-clef `this`  ✔️
 
@@ -23,22 +23,19 @@
 
 ### Utilisation dans un projet ✔️
 
-[WilderBook](https://github.com/wild-e/wilderbook-ts)
 
 Description :
 
 ### J'ai utilisé ce langage en production ✔️
-
-[Tualu](https://tualu.fr/
 
 Description :
 
 ### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
-[Tualu](https://tualu.fr/
+
 ## 🌐 J'utilise des ressources
-https://vuejs.org/v2/guide/
+
 
 ### Titre
 

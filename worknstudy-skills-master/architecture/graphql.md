@@ -8,11 +8,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL  ✔️
 - la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
+- Query  ✔️
+- Mutation  ✔️
 - Subscription ❌ / ✔️
 
 ## 💻 J'utilise
